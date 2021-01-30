@@ -213,7 +213,7 @@
 						<p id="error"> </p>
 						<div class="text-center">
 							<div class="container mb-3">
-								<form action="/lista" class=" ml-5 mb-3">
+								<form action="/lista" method="Get" class=" ml-5 mb-3">
 									<div class="ml-5">
 										<div class="form-group ml-5">
 											<input class="input-group-text" type="text" placeholder="usuario" name="user" id="user">
