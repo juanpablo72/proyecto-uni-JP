@@ -41,3 +41,6 @@ Route::get('/resultados_busqueda', function () {
 Route::get('/admin', function () {
     return view('admin');
 });
+Route::get('/new_user', function () {
+    return view('new_user');
+});

@@ -3,7 +3,7 @@
 
 @section('content')
 <div class="text-center">
-	<h3>Estudiantes regitrados</h3>
+	<h3>Estudiantes registrados</h3>
 </div>
 <br>
 

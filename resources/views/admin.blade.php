@@ -8,7 +8,7 @@
 <h1 class="text-primary">Administrador de Usuarios</h1>
 
 </div>
-<button  onclick="f_n_s();" class="btn btn-success"> nuevo usuario</button>
+<a href="/new_user" onclick="f_n_s();" class="btn btn-success"> nuevo usuario</a>
 <br>
 <br>
 <table class="table">
